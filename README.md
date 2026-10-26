@@ -13,8 +13,8 @@ I'm a junior developer interested in building useful software, exploring artific
 
 ---
 
- 🧰 **Tech Stack**
 
+# 🧰 Tech Stack
 Languages
 
 - Python
