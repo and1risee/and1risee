@@ -32,7 +32,7 @@ Check out my project and explore what I'm building.
 # 🌱 Current Focus
 
 - Improving my Python skills
-- Exploring AI and Machine Learning
+- Exploring **AI** and **Machine Learning**
 - Building practical projects
 - Learning through experimentation and problem-solving
 
