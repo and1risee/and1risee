@@ -12,11 +12,6 @@ I'm a **junior developer** interested in building useful software, exploring art
 - 🎯 Goal: Build a strong portfolio and land a job in IT
   
 
-
-
-
-
-
 <br><br>
 # 🧰 Tech Stack
 **Languages**
@@ -35,7 +30,7 @@ I'm a **junior developer** interested in building useful software, exploring art
 Check out my project and explore what I'm building.
 
 
-
+<br><br>
 # 🌱 Current Focus
 
 - Improving my Python skills
