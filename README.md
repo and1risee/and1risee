@@ -40,4 +40,4 @@ Check out my project and explore what I'm building.
 
 ---
 
-Learning, building, and improving — one project at a time
+> Learning, building, and improving — one project at a time
