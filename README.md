@@ -3,9 +3,9 @@
 
 **AI** / **Machine Learning Developer**
 
-I'm a **junior developer** interested in building useful software, exploring artificial intelligence, and turning ideas into real projects.
+I'm a **junior developer** interested in building useful **software**, exploring **artificial intelligence**, and turning ideas into real projects.
 
-- 🤖 Interested in AI, Machine Learning, and Automation
+- 🤖 Interested in **AI**, **Machine Learning**, **and Automation**
 - 🌐 Exploring Web Development
 - 🎮 Interested in Game Development
 - 🛠 Building projects and improving my development skills
