@@ -6,10 +6,10 @@
 I'm a **junior developer** interested in building useful **software**, exploring **artificial intelligence**, and turning ideas into real projects.
 
 - 🤖 Interested in **AI**, **Machine Learning**, **and Automation**
-- 🌐 Exploring Web Development
-- 🎮 Interested in Game Development
+- 🌐 Exploring **Web Development**
+- 🎮 Interested in **Game Development**
 - 🛠 Building projects and improving my development skills
-- 🎯 Goal: Build a strong portfolio and land a job in IT
+- 🎯 Goal: Build a strong portfolio and land a job in **IT**
   
 
 <br><br>
