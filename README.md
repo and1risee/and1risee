@@ -12,7 +12,7 @@ I'm a junior developer interested in building useful software, exploring artific
 - 🎯 Goal: Build a strong portfolio and land a job in IT
 
 
----
+
 
 
 # 🧰 Tech Stack
