@@ -11,6 +11,7 @@ I'm a junior developer interested in building useful software, exploring artific
 - 🛠 Building projects and improving my development skills
 - 🎯 Goal: Build a strong portfolio and land a job in IT
 
+
 ---
 
 
