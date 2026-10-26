@@ -17,6 +17,7 @@ I'm a **junior developer** interested in building useful software, exploring art
 
 
 
+
 # 🧰 Tech Stack
 Languages
 
@@ -26,15 +27,16 @@ Languages
 
 
 
+
 # 🚀 Featured Project
 
 [Opposite](https://github.com/and1risee/Opposite) - An interactive AI-powered detective game where you solve mysteries, investigate clues, interrogate suspects, and uncover the truth. Every case challenges your logic and deduction skills
 
 Check out my project and explore what I'm building.
 
----
 
-🌱 Current Focus
+
+# 🌱 Current Focus
 
 - Improving my Python skills
 - Exploring AI and Machine Learning
