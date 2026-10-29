@@ -13,7 +13,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
   
 
 <br><br>
-# 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 **Languages:**
 
 <p align="center">
