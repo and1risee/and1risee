@@ -39,7 +39,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&perline=5" width="300" />
 </p>
 
 <br>
