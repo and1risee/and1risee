@@ -49,7 +49,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5" width="250" />
 </p>
 
 <br>
