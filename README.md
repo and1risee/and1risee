@@ -29,7 +29,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 
