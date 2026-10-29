@@ -20,7 +20,9 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&perline=5" width="300" />
 
-###  Frontend Development:
+<br>
+
+### 🌐 Frontend Development:
 
 
 
