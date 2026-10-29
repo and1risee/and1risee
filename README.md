@@ -11,9 +11,8 @@ I'm a **junior developer** interested in building useful **software**, exploring
 - 🛠 Building projects and improving my development skills
 - 🎯 Goal: Build a strong portfolio and land a job in **IT**
   
----
 
-<br>
+<br><br>
 ## 🛠️ Tech Stack & Skills
 ### <h3 align="center">💻 Programming Languages:</h3>
 
