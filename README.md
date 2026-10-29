@@ -26,6 +26,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 ### <h3 align="center">🌐 Frontend Development:</h3>
 
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
