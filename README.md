@@ -1,5 +1,5 @@
 
-# Hi, I'm [and1risee](https://github.com/and1risee) 👋
+# 👋Hi, I'm [and1risee](https://github.com/and1risee)
 
 ### AI / Machine Learning Developer
 
