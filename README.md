@@ -32,6 +32,16 @@ I'm a **junior developer** interested in building useful **software**, exploring
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
+<br>
+
+### <h3 align="center">⚙️ Backend Development</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express" />
+</p>
+
 
 <br><br>
 ## 🚀 Featured Project
