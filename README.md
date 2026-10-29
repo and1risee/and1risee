@@ -24,7 +24,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 <br>
 
-### 🌐 Frontend Development:
+### <h3 align="center">🌐 Frontend Development:</h3>
 
 
 
