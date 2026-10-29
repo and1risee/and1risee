@@ -14,7 +14,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 <br><br>
 ## 🛠️ Tech Stack & Skills
-### 💻 Programming Languages:
+### <h2 align="center">💻 Programming Languages:</h2>
 
 <br>
 
