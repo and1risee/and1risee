@@ -1,7 +1,7 @@
 
 # Hi, I'm [and1risee](https://github.com/and1risee) 👋
 
-**AI** / **Machine Learning Developer**
+### AI / Machine Learning Developer
 
 I'm a **junior developer** interested in building useful **software**, exploring **artificial intelligence**, and turning ideas into real projects.
 
