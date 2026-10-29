@@ -59,7 +59,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=5" width="250" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=5" width="275" />
 </p>
 
 <br>
