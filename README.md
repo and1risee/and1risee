@@ -34,7 +34,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 <br>
 
-### <h3 align="center">⚙️ Backend Development</h3>
+### <h3 align="center">⚙️ Backend Development:</h3>
 
 <br>
 
@@ -42,6 +42,15 @@ I'm a **junior developer** interested in building useful **software**, exploring
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express" />
 </p>
 
+<br>
+
+### <h3 align="center">🤖 AI & Machine Learning:</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
 <br><br>
 ## 🚀 Featured Project
