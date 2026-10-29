@@ -69,7 +69,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,linux,postman&perline=5" width="300" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,linux,postman&perline=5" width="325" />
 </p>
 
 <br><br>
