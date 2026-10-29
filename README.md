@@ -14,10 +14,10 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 <br><br>
 # 🧰 Tech Stack
-**Languages**
+**Languages:**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,mysql,CSS,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,CSS,js,ts" />
 </p>
 
 
