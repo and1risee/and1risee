@@ -52,6 +52,16 @@ I'm a **junior developer** interested in building useful **software**, exploring
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
+<br>
+
+### <h3 align="center">🗄️ Databases:</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
 <br><br>
 ## 🚀 Featured Project
 
