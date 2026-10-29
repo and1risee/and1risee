@@ -62,6 +62,16 @@ I'm a **junior developer** interested in building useful **software**, exploring
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
+<br>
+
+### <h3 align="center">🛠️ Tools & Technologies:</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,linux,postman" />
+</p>
+
 <br><br>
 ## 🚀 Featured Project
 
