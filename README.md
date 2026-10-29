@@ -14,7 +14,7 @@ I'm a **junior developer** interested in building useful **software**, exploring
 
 <br><br>
 ## 🛠️ Tech Stack & Skills
-###               Languages:
+               ### Languages:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,CSS,js,ts" />
