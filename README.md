@@ -16,9 +16,10 @@ I'm a **junior developer** interested in building useful **software**, exploring
 # 🧰 Tech Stack
 **Languages**
 
-- Python
-- HTML
-- SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,mysql,CSS,js,ts" />
+</p>
+
 
 
 <br><br>
