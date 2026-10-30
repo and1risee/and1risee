@@ -64,7 +64,7 @@ the intersection of **artificial intelligence**, **software engineering**, and
 
 ## 🌱 Current Focus
 
-<br><br>
+<br>
 
 <pre align="center">
 <code>
