@@ -18,7 +18,7 @@
 
 I don't just write code — I build **systems that think**. Passionate about
 the intersection of **artificial intelligence**, **software engineering**, and
-**automation**, I constantly explore how technology can solve real-world problems.
+**automation**, I constantly explore how technology can solve real-world problems
 
 - 🤖 Deep-diving into **AI, Machine Learning & Automation**
 - 🌐 Crafting modern experiences with **Web Development**
