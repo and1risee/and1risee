@@ -64,6 +64,8 @@ the intersection of **artificial intelligence**, **software engineering**, and
 
 ## 🌱 Current Focus
 
+<br>
+
 <pre align="center">
 <code>
 class Developer:
